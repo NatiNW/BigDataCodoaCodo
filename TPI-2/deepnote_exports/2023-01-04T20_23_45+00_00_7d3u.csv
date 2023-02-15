@@ -1,0 +1,6 @@
+id,gender,race/ethnicity,parental level of education,lunch,employed,test preparation course,math score,physics score,chemistry score,algebra_score
+10-5894942,male,group A,high school,standard,yes,completed,67.0,67.0,63.0,66.0
+41-1676468,female,group D,some high school,free/reduced,no,none,40.0,59.0,55.0,51.0
+64-6396924,male,group E,some college,free/reduced,no,none,59.0,60.0,50.0,56.0
+35-2426788,male,group B,high school,standard,yes,none,77.0,78.0,68.0,74.0
+60-9387304,male,group E,associate's degree,standard,yes,completed,78.0,73.0,68.0,73.0
